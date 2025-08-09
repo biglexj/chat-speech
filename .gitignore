@@ -5,6 +5,10 @@ __pycache__/
 
 # Distribution / packaging
 dist/
+dist/ChatSpeech.exe
+dist/*
+dist/**/*
+
 build/
 *.egg-info/
 
